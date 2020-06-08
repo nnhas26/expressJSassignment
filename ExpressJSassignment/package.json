@@ -1,0 +1,19 @@
+{
+  "name": "expressjsassignment",
+  "version": "1.0.0",
+  "description": "Expressjs npm project for assignment 2",
+  "main": "ExpJSapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ExpJSapp.js",
+    "start-server": "node ExpJSapp.js"
+  },
+  "author": "nnhas269",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
